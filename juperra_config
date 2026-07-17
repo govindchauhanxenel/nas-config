@@ -1,6 +1,6 @@
 
 {
-  "baseUrl_connect": "https://boss-outsource-overcome.ngrok-free.dev/",
- "baseUrl_caregiver": "https://boss-outsource-overcome.ngrok-free.dev/",
+  "baseUrl_connect": "https://staging-api.juperra.com/",
+ "baseUrl_caregiver": "https://staging-api.juperra.com/",
 
 }
