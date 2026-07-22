@@ -1,8 +1,8 @@
 
 {
 
-  "baseUrl_connect": "https://boss-outsource-overcome.ngrok-free.dev/",
- "baseUrl_caregiver": "https://boss-outsource-overcome.ngrok-free.dev/",
+  "baseUrl_connect": "http://192.168.1.40:4000/",
+ "baseUrl_caregiver": "http://192.168.1.40:4000/",
 
 
  
